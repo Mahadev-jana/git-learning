@@ -7,6 +7,7 @@ git commmand
 
  get fetch
 
- git branch -D mahadev
+git branch -D mahadev
 
+stash → fetch → review → merge → stash pop → resolve → commit
  
