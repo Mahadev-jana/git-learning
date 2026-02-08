@@ -7,4 +7,6 @@ git commmand
 
  get fetch
 
+ git branch -D mahadev
+
  
